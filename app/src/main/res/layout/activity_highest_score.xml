@@ -17,8 +17,7 @@
         android:gravity="center"
         android:textStyle="bold"
         android:layout_above="@+id/textHighScore"
-        android:layout_alignLeft="@+id/textHighScore"
-        android:layout_alignStart="@+id/textScore" />
+        android:layout_alignLeft="@+id/textHighScore" />
 
     <TextView
         android:layout_width="300dp"
